@@ -30,6 +30,10 @@ See this website:
 
 http://rpubs.com/MariosWorld/295209
 
+For the R code see:
+
+https://github.com/NormalMario/Coursera9
+
 ## Example Input and Output
 
 
