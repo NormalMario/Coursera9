@@ -28,7 +28,7 @@ The three-point estimate is calculated by:
 
 See this website:
 
-https://mariopage.shinyapps.io/threepointestimate/
+http://rpubs.com/MariosWorld/295209
 
 ## Example Input and Output
 
